@@ -1,2 +1,2 @@
 #!/bin/bash
-mv --chmod=+x tmp/betty /my_first_directory
+mv chmod=+x tmp/betty /my_first_directory
